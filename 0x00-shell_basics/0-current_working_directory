@@ -1,0 +1,13 @@
+
+root@efa0c006ffc9:/alx-system_engineering-devops/0x00-shell_basicsls
+root@efa0c006ffc9:/alx-system_engineering-devops/0x00-shell_basics# ls
+0-current_working_directory
+#!/bin/bash
+oot@efa0c006ffc9:/alx-system_engineering-devops/0x00-shell_basics#
+
+root@efa0c006ffc9:/alx-system_engineering-devops/0x00-shell_basics# cat >0-current_working_directory
+#!/bin/bash
+pwdroot@efa0c006ffc9:/alx-system_engineering-devops/0x00-shell_basics# ls
+0-current_working_directory
+
+root@efa0c006ffc9:/alx-system_engineering-devops/0x00-shell_basics#chmod +x 0-current_working_directory
