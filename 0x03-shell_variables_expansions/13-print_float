@@ -1,2 +1,2 @@
-#!/bin/bash 
-printf "%.2f" $NUM | sort:
+#!/bin/bash
+awk "BEGIN{printf \"%.2f\n\", ENVIRON[\"NUM\"]}"
